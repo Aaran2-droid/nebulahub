@@ -1,0 +1,103 @@
+2025-12-09T20:30:10.4084899Z OnStartup start
+2025-12-09T20:30:10.4148896Z Handlers wired
+2025-12-09T20:30:10.4153747Z About to open LoginWindow
+2025-12-09T20:30:11.5309535Z Failed to open LoginWindow: Se produjo una excepción al proporcionar un valor en 'System.Windows.StaticResourceExtension'.
+2025-12-09T20:30:15.0095690Z About to open SplashWindow
+2025-12-09T20:30:25.7044732Z SplashWindow closed
+2025-12-09T20:30:25.7048910Z OnStartup end
+2025-12-09T20:31:52.8826422Z OnStartup start
+2025-12-09T20:31:52.8843887Z Handlers wired
+2025-12-09T20:31:52.8847070Z About to open LoginWindow
+2025-12-09T20:31:53.9137092Z Calling ShowDialog
+2025-12-09T20:33:37.3302693Z ShowDialog returned: True
+2025-12-09T20:33:37.3307166Z About to open SplashWindow
+2025-12-09T20:33:37.6040353Z OnStartup start
+2025-12-09T20:33:37.6061473Z Handlers wired
+2025-12-09T20:33:37.6066296Z About to open LoginWindow
+2025-12-09T20:33:38.4137357Z Calling ShowDialog
+2025-12-09T20:33:45.9739454Z ShowDialog returned: False
+2025-12-09T20:33:45.9746025Z About to open SplashWindow
+2025-12-09T20:33:45.9815329Z SplashWindow closed
+2025-12-09T20:33:45.9820883Z OnStartup end
+2025-12-09T20:33:47.6753461Z SplashWindow closed
+2025-12-09T20:33:47.6757991Z OnStartup end
+2025-12-09T20:33:58.6451211Z OnStartup start
+2025-12-09T20:33:58.6467622Z Handlers wired
+2025-12-09T20:33:58.6470483Z About to open LoginWindow
+2025-12-09T20:33:59.4358426Z Calling ShowDialog
+2025-12-09T20:34:01.8202497Z ShowDialog returned: False
+2025-12-09T20:34:01.8207213Z About to open SplashWindow
+2025-12-09T20:34:01.8275692Z SplashWindow closed
+2025-12-09T20:34:01.8281341Z OnStartup end
+2025-12-09T20:34:03.0310086Z OnStartup start
+2025-12-09T20:34:03.0328858Z Handlers wired
+2025-12-09T20:34:03.0334220Z About to open LoginWindow
+2025-12-09T20:34:03.2369263Z Calling ShowDialog
+2025-12-09T20:35:20.7441457Z ShowDialog returned: False
+2025-12-09T20:35:20.7451213Z About to open SplashWindow
+2025-12-09T20:35:20.7504761Z SplashWindow closed
+2025-12-09T20:35:20.7510246Z OnStartup end
+2025-12-09T20:37:31.7750560Z OnStartup start
+2025-12-09T20:37:31.7772584Z Handlers wired
+2025-12-09T20:37:31.7777008Z About to open LoginWindow
+2025-12-09T20:37:32.6983054Z Calling ShowDialog
+2025-12-09T20:38:29.9775763Z ShowDialog returned: True
+2025-12-09T20:38:29.9779854Z About to open SplashWindow
+2025-12-09T20:38:30.2100677Z OnStartup start
+2025-12-09T20:38:30.2123348Z Handlers wired
+2025-12-09T20:38:30.2126337Z About to open LoginWindow
+2025-12-09T20:38:31.0213376Z Calling ShowDialog
+2025-12-09T20:38:40.3224457Z SplashWindow closed
+2025-12-09T20:38:40.3229302Z OnStartup end
+2025-12-09T20:38:59.6248925Z ShowDialog returned: False
+2025-12-09T20:38:59.6254475Z About to open SplashWindow
+2025-12-09T20:38:59.6372866Z SplashWindow closed
+2025-12-09T20:38:59.6380103Z OnStartup end
+2025-12-09T20:42:00.3019931Z OnStartup start
+2025-12-09T20:42:00.3035337Z Handlers wired
+2025-12-09T20:42:00.3038071Z About to open LoginWindow
+2025-12-09T20:42:01.3511417Z Calling ShowDialog
+2025-12-09T20:42:17.2596905Z ShowDialog returned: True
+2025-12-09T20:42:17.2602092Z About to open SplashWindow
+2025-12-09T20:42:27.6342162Z SplashWindow closed
+2025-12-09T20:42:27.6347733Z OnStartup end
+2025-12-09T20:52:13.0289661Z OnStartup start
+2025-12-09T20:52:13.0306555Z Handlers wired
+2025-12-09T20:52:13.0309315Z About to open LoginWindow
+2025-12-09T20:52:13.9626090Z Calling ShowDialog
+2025-12-09T20:52:27.3931795Z ShowDialog returned: True
+2025-12-09T20:52:27.3937534Z About to open SplashWindow
+2025-12-09T20:52:27.3992423Z SplashWindow closed
+2025-12-09T20:52:27.3997303Z OnStartup end
+2025-12-09T20:52:33.9443437Z OnStartup start
+2025-12-09T20:52:33.9462080Z Handlers wired
+2025-12-09T20:52:33.9466592Z About to open LoginWindow
+2025-12-09T20:52:34.9221625Z Calling ShowDialog
+2025-12-09T20:54:30.6218505Z ShowDialog returned: True
+2025-12-09T20:54:30.6224339Z About to open SplashWindow
+2025-12-09T20:54:30.6350761Z SplashWindow closed
+2025-12-09T20:54:30.6355526Z OnStartup end
+2025-12-10T16:09:24.1138932Z OnStartup start
+2025-12-10T16:09:24.1163321Z Handlers wired
+2025-12-10T16:09:24.1169117Z About to open LoginWindow
+2025-12-10T16:09:24.9324766Z Calling ShowDialog
+2025-12-10T16:10:02.6377536Z ShowDialog returned: True
+2025-12-10T16:10:02.6381539Z About to open SplashWindow
+2025-12-10T16:10:02.8595853Z SplashWindow closed
+2025-12-10T16:10:02.8599735Z OnStartup end
+2025-12-10T16:59:00.5834800Z OnStartup start
+2025-12-10T16:59:00.5853858Z Handlers wired
+2025-12-10T16:59:00.5856936Z About to open LoginWindow
+2025-12-10T16:59:01.3756557Z Calling ShowDialog
+2025-12-10T17:00:28.5562892Z ShowDialog returned: False
+2025-12-10T17:00:28.5581106Z About to open SplashWindow
+2025-12-10T17:00:28.5676771Z SplashWindow closed
+2025-12-10T17:00:28.5684039Z OnStartup end
+2025-12-10T17:00:30.3336252Z OnStartup start
+2025-12-10T17:00:30.3351005Z Handlers wired
+2025-12-10T17:00:30.3353896Z About to open LoginWindow
+2025-12-10T17:00:31.1276501Z Calling ShowDialog
+2025-12-10T17:00:43.1460997Z ShowDialog returned: True
+2025-12-10T17:00:43.1467939Z About to open SplashWindow
+2025-12-10T17:00:43.4809488Z SplashWindow closed
+2025-12-10T17:00:43.4814690Z OnStartup end
